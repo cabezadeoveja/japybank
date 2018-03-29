@@ -21,6 +21,6 @@ El Banco del País es uno de los bancos más importante de tu país. Es una inst
 - Iterar y concluir
 
 ## Mi rol dentro del proyecto
-El proyecto Japy bank se realizó en conjunto a Angelica Ordenes, ambas participamos en todo el proceso de diseño. Partiendo por el **descubrimiento e investigación**: guión de entrevista, encuesta online, benchmark y testing vídeo de la experiencia al momento de buscar información de los movimientos de una tarjeta. **En la síntesis y definición** donde utilizamos las siguientes herramientas: diagrama de afinidad, customer journey, user persona. En la **ideación y prototipado** donde realizamos wireframe y prototipo de mediana fidelidad para finalmente **testear el prototipo** con usuarios realeas con el fin de iterar y concluir.
+El proyecto Japy bank se realizó en conjunto a Angelica Ordenes, ambas participamos en todo el proceso de diseño. Partiendo por el **descubrimiento e investigación**: guión de entrevista, encuesta online, benchmark y testing vídeo de la experiencia al momento de buscar información de los movimientos de una tarjeta. Continuamos con la **síntesis y definición** donde utilizamos las siguientes herramientas: diagrama de afinidad, customer journey, user persona. Posteriormente en la **ideación y prototipado** realizamos wireframe y prototipo de alta fidelidad, para finalmente **testear el prototipo** con usuarios realeas con el fin de iterar y concluir.
 
 ***

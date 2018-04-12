@@ -31,12 +31,12 @@ El proyecto Japy bank se realizó en conjunto a Angelica Ordenes, ambas particip
 
 ### Guion de la Entrevista
 Esta entrevista es para conocer a los usuarios y también para conocer la relación e interacción que tienes con su banco. Algunas preguntas con las que queremos indagar más alla son:
--¿Qué representa el banco en la vida de los millennials?.
--¿Qué tan informados están los millennials respecto a su banco?.
--¿Cuáles son las necesidades bancarias de los millennials?.
--¿Cómo interactúan los millennials con el banco?
--Conocer experiencias de los millennials al momento de realizar un trámite bancario.
--¿Qué piensan los millennials sobre los bancos?.
+- ¿Qué representa el banco en la vida de los millennials?.
+- ¿Qué tan informados están los millennials respecto a su banco?.
+- ¿Cuáles son las necesidades bancarias de los millennials?.
+- ¿Cómo interactúan los millennials con el banco?
+- Conocer experiencias de los millennials al momento de realizar un trámite bancario.
+- ¿Qué piensan los millennials sobre los bancos?.
 
 ## Storytelling
 Soy Javiera tengo 25 años y ocupo mi tarjeta de debito para todo, para pagar en el supermercado, la cuenta del restaurante, cuando salgo de carrete, el veterinario de mi perrita Frida, mis juegos de nintendo; realmente pago todo con mi tarjeta porque me hace semtir segura y me gusta llevar un control de mis gastos... Pero el otro día revisando mis últimos movimientos, no sabía de que eran los gastos de hace 5 días atrás, pensaba que el banco me estaba robando y me di cuenta que realmente no sabía en que estaba gastando mi dinero por lo que no llevaba un control de ¡nada!.

@@ -65,6 +65,19 @@ Algunas preguntas con las que queremos indagar más alla son:
 
 ***
 
+## Sintesis y definición |
+### Diagrama de afinidad
+
+Ordenamos por categorías las respuestas de las entrevistas para sintetizar y analizarlas. Gracias al diagrama de afinidad, logramos enfocarnos en uno de las categorías más nombradas: **orden**, ya que como insight, descubrimos que los usuarios buscan y quieren mantener un orden de sus cuentas para no endeudar, sin embargo no llevan un control de sus gastos.
+
+![japy-5](https://user-images.githubusercontent.com/32286870/38682110-a6f5631a-3e40-11e8-8a72-b5659e162529.jpg)
+
+### Creando personas, usuario primario
+
+![japy-6](https://user-images.githubusercontent.com/32286870/38682719-2c6c3b30-3e42-11e8-963c-b25e6bc27a9a.jpg)
+
+***
+
 ## Storytelling
 Soy Javiera tengo 25 años y ocupo mi tarjeta de debito para todo, para pagar en el supermercado, la cuenta del restaurante, cuando salgo de carrete, el veterinario de mi perrita Frida, mis juegos de nintendo; realmente pago todo con mi tarjeta porque me hace semtir segura y me gusta llevar un control de mis gastos... Pero el otro día revisando mis últimos movimientos, no sabía de que eran los gastos de hace 5 días atrás, pensaba que el banco me estaba robando y me di cuenta que realmente no sabía en que estaba gastando mi dinero por lo que no llevaba un control de ¡nada!.
 Hace poco una amiga me recomendo un nuevo banco chileno llamado JAPYbank, es 100% digital y el plus que tiene es que organiza mis gastos por categorías para que yo pueda entender de manera visual los movimientos que realizo con mi tarjeta. Ahora saber en qué y cuando gasto mi dinero es mucho más entendible. Definitivamente recomendaría JAPPYbank.

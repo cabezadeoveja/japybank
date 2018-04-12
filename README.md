@@ -93,6 +93,20 @@ Luego de tres testimonios claves:
 
 Y descubrir el **Pain Point Principal:** Las personas **no** recuerden exactamente de qué son las operaciones que realizaron hace unas semanas o días; llegamos a la conclusión de que Javiera **necesita** mantener un orden de sus gastos **para** entender en qué gasta su dinero.
 
+## Cómo podríamos... (HMW)
+- ¿Cómo podríamos hacer que Javiera sienta que tiene un control de sus gatos?
+- ¿Cómo podríamos hacer que Javiera pueda recordar los movimientos que ha hecho con su tarjeta bancaria?
+- ¿Cómo podríamos hacer que Javiera se informe de cuáles son sus mayores gastos mensualmente?
+
+***
+
+## Ideación |
+Usando nuestras nuevas personas, creamos un escenario para que cada uno comience a idear cómo podemos resolver sus necesidades. La sesión de ideación proporcionó muchas ideas geniales.
+
+- ¿Qué pasaría si existiese un registro visual exacto de los consumos de Javiera?
+- ¿Qué pasaría si categorizamos cada uno de los gastos que realiza Javiera con su tarjeta?
+- ¿Qué pasaría si organizamos sus gastos por colores?
+
 ***
 
 ## Storytelling

@@ -81,7 +81,7 @@ Realizamos un testing de vídeo a través de la herramienta Loom, a dos usuarios
 ![japy-7](https://user-images.githubusercontent.com/32286870/38683794-ab1501c2-3e44-11e8-84af-8a33629f1d2b.jpg)
 
 ### User Journey Map 
-Se realizó un mapa de viaje, para identificar los puntos críticos de los usuarios en las diferentes etapas cuando quieren revisar sus ultimos movimientos.
+Se realizó un mapa de viaje, para identificar los puntos críticos de los usuarios en las diferentes etapas de cuando quieren revisar sus ultimos movimientos.
 
 ![japy-9](https://user-images.githubusercontent.com/32286870/38684177-8333db3c-3e45-11e8-9720-071b7f61fea6.jpg)
 

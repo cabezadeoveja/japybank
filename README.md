@@ -72,8 +72,8 @@ Ordenamos por categorías las respuestas de las entrevistas para sintetizar y an
 
 ![japy-5](https://user-images.githubusercontent.com/32286870/38682110-a6f5631a-3e40-11e8-8a72-b5659e162529.jpg)
 
-### Creando personas, usuario primario
-![japy-6](https://user-images.githubusercontent.com/32286870/38682719-2c6c3b30-3e42-11e8-963c-b25e6bc27a9a.jpg)
+### Usuario primario - Javiera |
+![japy-6](https://user-images.githubusercontent.com/32286870/38683005-d538528a-3e42-11e8-9c1f-52dc35025a92.jpg)
 
 ***
 

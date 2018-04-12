@@ -79,9 +79,9 @@ Ordenamos por categorías las respuestas de las entrevistas para sintetizar y an
 Realizamos un testing de vídeo a través de la herramienta Loom, a dos usuarios les pedimos de tarea **que vieran su último movimiento y que nos informaran sobre que era.** Observamos a los usuarios no supieron responder de inmediato en que habían utilizados sus últimos movimientos y que sería de gran ayuda poder ordenar esta información para tener un control y orden de sus cuentas. Realizamos un Customer Journey map para conocer los puntos críticos del testeo.
 
 ![japy-7](https://user-images.githubusercontent.com/32286870/38683794-ab1501c2-3e44-11e8-84af-8a33629f1d2b.jpg)
-![japy-8](https://user-images.githubusercontent.com/32286870/38683796-ab5e5b06-3e44-11e8-93d9-6606392579b3.jpg)
 
 ### User Journey Map 
+![japy-9](https://user-images.githubusercontent.com/32286870/38684177-8333db3c-3e45-11e8-9720-071b7f61fea6.jpg)
 
 ***
 

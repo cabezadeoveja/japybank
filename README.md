@@ -26,9 +26,10 @@ El proyecto Japy bank se realizó en conjunto a Angelica Ordenes, ambas particip
 ***
 
 ## Descubrimiento e Investigación |
-### Research
+
 ![japy-2](https://user-images.githubusercontent.com/32286870/38657485-d2c7b26c-3df6-11e8-8e85-fd4a9a8519c0.jpg)
 
+## Research Cualitativo
 ### Guion de Entrevista
 Entrevistas realizadas el día 25 de Febrero a 6 usuarios diferentes.
 Esta entrevista es para conocer a los usuarios y también para conocer la relación e interacción que tienes con su banco.
@@ -48,6 +49,21 @@ Algunas preguntas con las que queremos indagar más alla son:
 - **Seguridad:** Los entrevistados se sienten más seguros al cancelar con sus tarjetas que con efectivo. 
 - **Comodidad:** Los entrevistados prefieren transferir a través de la banca en línea ya que no deben ir al banco.
 - **Restricción de pagos:** Los entrevistados se sentian frustrados ya que solo con visa se puede contratar los servicios tales como Netflix, Aliexpress o cualquier comercio online y la mayoría posee tarjetas de débito.
+
+## Research Cuantitativo
+### Encuesta online / Resumen 41 respuestas
+
+- El 62.5% de las personas encuestadas es cliente del banco Estado, seguido por un 35% que pertenece al banco Santander y un 17,5% al Banco de Chile.
+- El 87.5% pertenece a la generación de los millennials.
+- El 60% de los encuestados no ha ido ninguna vez al banco dentro de estos 3 meses y el 37,5% ha ido entre 1 a 5 veces.
+- El 40% ha ido al banco para cambiar su tarjeta, el 17,5% para sacar o ingresar dinero y el 12.5% para realizar una transferencia.
+- Para solucionar un problema o comunicarse con su banco el 87.8% prefiere comunicarse por teléfono.
+- El 24,4% quisiera tener tarjeta de crédito. Pero no tienen porque: No quieren pagar su mantenimiento. Por que piden una renta mensual, cosa que no tienen. Por que no cuentan con sueldo fijo. Falta de trabajo. No poseen los requisitos necesarios que piden un banco. No cumplen con los requisitos por ser estudiante y no tener ingresos.
+- La mayoría de los encuestados con la tarjeta de débito suelen pagar en restaurantes, multitiendas, compras en internet (nacional) y pago de servicios básicos.
+- La mayoría de los encuestados con la tarjeta de crédito suelen pagar sus compras por internet (extranjero), pagar netflix, multi tiendas y restaurantes pero el 43,9% no tiene tarjeta de crédito.
+- A las personas les gustaría hacer los siguientes trámites de forma online: revisar su situación financiera para optar a más créditos u otros beneficios, activar, desbloquear o cambiar tarjetas, entrega de documentos que podrían enviarse por escáner, solicitar la renovación de los documentos en caso de pérdida, poder actualizar la libreta de ahorro.
+
+***
 
 ## Storytelling
 Soy Javiera tengo 25 años y ocupo mi tarjeta de debito para todo, para pagar en el supermercado, la cuenta del restaurante, cuando salgo de carrete, el veterinario de mi perrita Frida, mis juegos de nintendo; realmente pago todo con mi tarjeta porque me hace semtir segura y me gusta llevar un control de mis gastos... Pero el otro día revisando mis últimos movimientos, no sabía de que eran los gastos de hace 5 días atrás, pensaba que el banco me estaba robando y me di cuenta que realmente no sabía en que estaba gastando mi dinero por lo que no llevaba un control de ¡nada!.

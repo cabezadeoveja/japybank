@@ -29,7 +29,7 @@ El proyecto Japy bank se realizó en conjunto a Angelica Ordenes, ambas particip
 ### Research
 ![japy-2](https://user-images.githubusercontent.com/32286870/38657485-d2c7b26c-3df6-11e8-8e85-fd4a9a8519c0.jpg)
 
-### Guion de la Entrevista
+### Guion de Entrevista
 Entrevistas realizadas el día 25 de Febrero a 6 usuarios diferentes.
 Esta entrevista es para conocer a los usuarios y también para conocer la relación e interacción que tienes con su banco.
 
@@ -43,6 +43,11 @@ Algunas preguntas con las que queremos indagar más alla son:
 
 ![japy-3](https://user-images.githubusercontent.com/32286870/38658111-0a895784-3dfa-11e8-9eb5-8586df1adf85.jpg)
 ![japy-4](https://user-images.githubusercontent.com/32286870/38658200-800f09b8-3dfa-11e8-9f0d-e2fb18609285.jpg)
+
+### Conclusioones y Observaciones de las Entrevistas
+**Seguridad:** Los entrevistados se sienten más seguros al cancelar con sus tarjetas que con efectivo. 
+**Comodidad:** Los entrevistados prefieren transferir a través de la banca en línea ya que no deben ir al banco.
+**Restricción de pagos:** Los entrevistados se sentian frustrados ya que solo con visa se puede contratar los servicios tales como Netflix, Aliexpress o cualquier comercio online y la mayoría posee tarjetas de débito.
 
 ## Storytelling
 Soy Javiera tengo 25 años y ocupo mi tarjeta de debito para todo, para pagar en el supermercado, la cuenta del restaurante, cuando salgo de carrete, el veterinario de mi perrita Frida, mis juegos de nintendo; realmente pago todo con mi tarjeta porque me hace semtir segura y me gusta llevar un control de mis gastos... Pero el otro día revisando mis últimos movimientos, no sabía de que eran los gastos de hace 5 días atrás, pensaba que el banco me estaba robando y me di cuenta que realmente no sabía en que estaba gastando mi dinero por lo que no llevaba un control de ¡nada!.

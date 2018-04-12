@@ -46,7 +46,9 @@ Algunas preguntas con las que queremos indagar más alla son:
 
 ### Conclusioones y Observaciones de las Entrevistas
 **Seguridad:** Los entrevistados se sienten más seguros al cancelar con sus tarjetas que con efectivo. 
+
 **Comodidad:** Los entrevistados prefieren transferir a través de la banca en línea ya que no deben ir al banco.
+
 **Restricción de pagos:** Los entrevistados se sentian frustrados ya que solo con visa se puede contratar los servicios tales como Netflix, Aliexpress o cualquier comercio online y la mayoría posee tarjetas de débito.
 
 ## Storytelling

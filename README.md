@@ -51,7 +51,7 @@ Algunas preguntas con las que queremos indagar más alla son:
 - **Restricción de pagos:** Los entrevistados se sentian frustrados ya que solo con visa se puede contratar los servicios tales como Netflix, Aliexpress o cualquier comercio online y la mayoría posee tarjetas de débito.
 
 ## Research Cuantitativo
-### Encuesta online / Resumen 41 respuestas
+### Encuesta online / Resumen de 41 respuestas
 
 - El 62.5% de las personas encuestadas es cliente del banco Estado, seguido por un 35% que pertenece al banco Santander y un 17,5% al Banco de Chile.
 - El 87.5% pertenece a la generación de los millennials.
@@ -84,6 +84,14 @@ Realizamos un testing de vídeo a través de la herramienta Loom, a dos usuarios
 Se realizó un mapa de viaje, para identificar los puntos críticos de los usuarios en las diferentes etapas de cuando quieren revisar sus ultimos movimientos.
 
 ![japy-9](https://user-images.githubusercontent.com/32286870/38684177-8333db3c-3e45-11e8-9720-071b7f61fea6.jpg)
+
+## Problem Statement
+Luego de tres testimonios claves:
+- “Para tener una tarjeta de crédito tengo que aprender primero a organizarse”
+- “Trato de llevar bien ordenadas mis cuentas, para no quedarme corto con el presupuesto del mes”
+- “Me gustaría mantener un control de mis gastos”
+
+Y descubrir el **Pain Point Principal:** Las personas **no** recuerden exactamente de qué son las operaciones que realizaron hace unas semanas o días; llegamos a la conclusión de que Javiera **necesita** mantener un orden de sus gastos **para** entender en qué gasta su dinero.
 
 ***
 
